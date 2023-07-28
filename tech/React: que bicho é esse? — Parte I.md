@@ -58,9 +58,14 @@ Agora que já falamos da parte teórica, vamos mostrar em código como seria iss
 
 Abaixo, temos um exemplo de como seria o código sem o JSX:
 
+![Imag1 React](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/00b5fc45-e906-48d0-a439-b6fc8ed5154a)
+
 _Imagem 1 -Fonte : Elaborado pela Autora_
 
 Utilizando o JSX o código fica dessa forma:
+
+![Imagem2](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/cdf63ad4-2281-413e-b4ec-e971a2db168a)
+
 
 _Imagem 2 -Fonte : Elaborado pela Autora_
 
@@ -73,6 +78,10 @@ A primeira parte que nos forma como seres humanos são as células, como por exe
 
 Resumidamente, algo macro é formado por pequenas partes menores. Essa definição pode ser aplicada para o conceito de Componentes no React.
 
+![Imagem3](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/8d63101f-4e7c-4aae-b7c1-18e9ebe325b3)
+
+
+
 _Imagem 3 -Fonte : Elaborado pela Autora_
 
 Falando de forma mais técnica, um componente em React pode ser definido como:
@@ -83,6 +92,9 @@ A lógica de construção dos Componentes em React é criar pequenas partes inde
 
 Imaginemos que desejamos fazer um botão para nossa página:
 
+![Imagem4](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/9d0b8712-0696-40d5-9c7e-67aec01c0e18)
+
+
 _Imagem 4 -Fonte : Elaborado pela Autora_
 
 Há dois modos de elaborar componentes em React, são eles: componente funcional e componente de classe.
@@ -90,6 +102,9 @@ Há dois modos de elaborar componentes em React, são eles: componente funcional
 Os componentes funcionais levam esse nome pois são declarados em formato de funções Javascript. Os de classe, por outro lado, são criados baseados no conceito de classe do Javascript. Mas como ficaria essa diferença em código?
 
 ##### Componente Funcional
+
+![Imagem5](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/86fc2b37-be90-4d89-a2f0-dd854392213a)
+
 
 _Imagem 5 -Fonte : Elaborado pela Autora_
 
@@ -100,6 +115,8 @@ Algumas características dos componentes funcionais:
 - Não utilizam os construtores.
 
 #####  Componente de Classe
+
+![Imagem6](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/74c6d53a-08e6-479a-bd30-970388cc994f)
 
 _Imagem 6 -Fonte : Elaborado pela Autora_
 
@@ -117,9 +134,15 @@ Esse próximo conceito geralmente tende a gerar muita confusão em quem está co
 Uma das principais utilidades desse recurso é auxiliar na exibição de dados ou proporcionar a interação entre os componentes para dinamizá-los.
 
 #### Props em Componentes Funcionais
+
+![Imagem7](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/a0cbbcba-9da6-4cc5-824a-709da0ada48b)
+
 _Imagem 7 -Fonte : Elaborado pela Autora_
 
 #### Props em Componentes de Classe
+![Imagem8](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/ee6b49b1-fe32-435a-98f7-5d91650139b1)
+
+
 _Imagem 8 -Fonte : Elaborado pela Autora_
 
 Caso você deseje se aprofundar mais e entender o passo a passo de como passar props, recomendo a leitura [desse artigo].
