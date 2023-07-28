@@ -38,11 +38,17 @@ Em código ficaria assim:
 
 #### Criando o estado.
 
+![imagem1](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/87db62ff-8ab5-43ed-b30c-15f477a6b373)
+
+
 _Imagem 1 -Fonte : Elaborado pela Autora_
 
 Agora, como vemos abaixo, podemos acessar o valor e mostrar na tela a informação do nome.
 
 #### Acessando a informação
+
+![imagem2](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/532da880-de44-42c6-b7d4-9d6f8d7748f0)
+
 
 _Imagem 2 -Fonte : Elaborado pela Autora_
 
@@ -84,6 +90,9 @@ Há diversos outros métodos na etapa de atualização. Caso você queira se apr
 A fase final de um componente é a desmontagem, ela ocorre quando o componente não é mais necessário. Nesse momento, usamos o método **componentWillUnmount**.
 
 Talvez, tudo isso possa ter parecido muito abstrato quando explicado em texto. Pensando nisso, trouxe aqui um diagrama para facilitar o entendimento dos métodos de ciclo de vida mais utilizados 🤗 Caso queira consultar de forma mais interativa, é só acessar [esse link].
+
+![imagem3](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/ce9fcfa7-2f42-45f8-8adc-b3ce9d947cee)
+
 
 _Imagem 3 -Fonte : https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/_
 
