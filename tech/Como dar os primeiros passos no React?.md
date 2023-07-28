@@ -78,6 +78,9 @@ Um exemplo de Layout simples é esse a seguir. Na esquerda temos: em roxo uma im
 
 Nesse projeto, você pode treinar alguns conceitos como: importação de imagem, estilização em React e React forms.
 
+![im1](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/64b775ec-e479-4b26-9099-d0a84a93e50d)
+
+
 _Imagem 1 -Fonte : Elaborado pela Autora_
 
 ## 2. Lista com os seus Hobbies e Favoritos
@@ -85,6 +88,8 @@ _Imagem 1 -Fonte : Elaborado pela Autora_
 Nesse projeto, você poderá usar sua criatividade para treinar o React.js. Crie alguns cartões (retângulo vermelho), e insira neles algumas informações (quadrados brancos) sobre os seus Hobbies. Caso você não tenha muitas atividades de interesse, tente fazer uma lista de músicas favoritas, livros lidos, séries que você curte ou artigos.
 
 O importante aqui é você treinar alguns conceitos do React.Js como: Renderização de Listas e Componentização.
+
+![im2](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/229aec14-ec14-4b7e-b5b7-fc6c2d43ebe9)
 
 _Imagem 2 -Fonte : Elaborado pela Autora_
 
@@ -94,11 +99,17 @@ Se tem algo mais interessante e agregador que viajar, eu desconheço. Que tal re
 
 Para esse projeto, você pode seguir um layout igual ao de baixo. Um banner (retângulo azul) com a foto do local e alguns cards com informação sobre o lugar (retângulos vermelhos com branco). Aqui você treinará algumas habilidades do React, como: Componentização, importação de imagem e renderização de informações.
 
+![im3](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/10a8d69c-03c0-4398-a32b-3296b889ba08)
+
 _Imagem 3 -Fonte : Elaborado pela Autora_
 
 ## 4. Calculadora
 
 Geralmente, a calculadora é um projeto que fazemos quando estamos estudando JavaScript para treinar a lógica. Apesar de ser um mini-projeto, as operações são bem elaboradas. Como Layout, você pode usar o exemplo abaixo (visor — retângulo branco, botões de apagar e fazer operações — quadrados azuis , botões com os números — quadrados amarelos e botão de enter — retângulo roxo).
+
+![im4](https://github.com/MirandaFayra/TEXTS-BY-FAYRA-MIRANDA/assets/52434685/48259e62-29aa-48ad-a753-ead9547a7d8f)
+
+
 
 _Imagem 4 -Fonte : Elaborado pela Autora_
 
