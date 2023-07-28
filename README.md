@@ -6,3 +6,5 @@
 <br>
 
 Coletânea de textos escritos para Fayra Miranda
+
+Os textos estão divididos em duas temáticas, carreira e tecnologia (basta acessar as pastas)
